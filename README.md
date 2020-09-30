@@ -1,5 +1,5 @@
 # Dinamic use of classes for sentdex Tkinter tutorial
-Following sentdex tutorial in Youtube [Multiple Windows/Frames in Tkinter GUI with Python - Tkinter tutorial Python 3.4 p. 4](https://www.youtube.com/watch?v=jBUpjijYtCk&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk&index=4), you have to hardcode a line each time you create a new class that's a page.
+Following [Sentdex](https://github.com/Sentdex) tutorial in Youtube [Multiple Windows/Frames in Tkinter GUI with Python - Tkinter tutorial Python 3.4 p. 4](https://www.youtube.com/watch?v=jBUpjijYtCk&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk&index=4), you have to hardcode a line each time you create a new class that's a page.
 
 This solution try to offer a dinamic way of iterating throught the classes that should be in SeaofBTCapp's constructor loop.
 
